@@ -9,9 +9,7 @@ function doMagic8BallVoodoo() {
 		"Maybe",
 		"Never",
 		"Yep",
-		"idk",
-		"That's halal",
-		"That's haram"
+		"idk"
 	];
 
 	return rand[Math.floor(Math.random() * rand.length)];
